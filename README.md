@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tirth Chhatrala  and I'm a Full Stack Devloper, from Junagadh </h2>
+<h2 align="left">Hi 👋! My name is Ridham Vadoliya and I'm a Full Stack Devloper, from Junagadh </h2>
 
 ###
 
