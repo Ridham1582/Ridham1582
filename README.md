@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<!--
+My name is Ridham Vadoliya and I'm a Full Stack Devloper, from Junagadh
+javascript logo  typescript logo  react logo  html5 logo  css3 logo  python logo  csharp logo  c logo  cplusplus logo  amazonwebservices logo  docker logo  discord logo  eclipseide logo  googlecloud logo  vercel logo  stackoverflow logo  webpack logo  vscode logo  tailwindcss logo  pycharm logo  oracle logo  anaconda logo
+youtube logo instagram logo twitch logo discord logo gmail logo linkedin logo whatsapp logo facebook logo<!--
 **Ridham1582/Ridham1582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
